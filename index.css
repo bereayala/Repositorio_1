@@ -1,0 +1,130 @@
+.gris {
+    background: #D6D5C9;
+    border-style: solid double;
+    border-radius: 15px;
+    width: 650px;
+    height: 400px;
+    padding: 50px;
+    
+}
+
+    .morado {
+        color: white;
+        background: rgb(154, 110, 219);
+        text-shadow: #000000, 10px;
+        text-align-last: center;
+        text-shadow:2px 2px black;
+        font-size: 35px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        float:left;margin-left:60px;
+        a:active;
+
+    }
+    
+    .purpura {
+        color: gray;
+        background: #1D0049;
+        text-shadow: #000000, 10px;
+        text-align-last: center;
+        text-shadow:2px 2px black;
+        font-size: 35px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        float:right;margin-left:60px;
+    }
+    
+    .blanco {
+        color: red;
+        background: white;
+        text-shadow: #000000, 10px;
+        text-align-last: center;
+        text-shadow:2px 2px black;
+        font-size: 35px;
+        border-style: solid;
+        border-color: red;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        float:left;margin-left:60px;
+    }
+
+    .azul {
+        color: #000000;
+        background: #89A3F9;
+        text-shadow: #000000, 10px;
+        text-align-last: center;
+        text-shadow:2px 2px black;
+        font-size: 35px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        float:right;margin-left:60px;
+    }
+    
+    .turquesa {
+        color: darkolivegreen;
+        background: #89F9E3;
+        text-shadow: #000000, 10px;
+        text-align-last: center;
+        text-shadow:2px 2px black;
+        font-size: 35px;
+        border-style: solid;
+        border-color: darkolivegreen;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        float:left;margin-left:60px;
+    }
+    
+    .verde {
+        color: #000000;
+        background: #D8F9B8;
+        text-shadow: #000000, 10px;
+        text-align-last: center;
+        text-shadow:2px 2px black;
+        font-size: 35px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        float:right;margin-left:60px;
+    }
+
+.boton {
+    color: #000000;
+    background: #5606E0;
+    text-shadow: #000000, 5px; 
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 50px;
+    width: 100px;
+    height: 20px;
+    float: center;
+    
+}
+
